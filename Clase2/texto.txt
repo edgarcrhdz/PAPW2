@@ -1,0 +1,3 @@
+Con "git checkout -nombre-" se pueden crear ramas y con "git branch" se pueden ver las ramas. Con "git checkout" se puede posicionar en la rama que se desee.
+
+Con Sourcetree, es más fácil como sólo darle click al iconito con figura de crear rama.
